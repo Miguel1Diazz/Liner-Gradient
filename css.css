@@ -1,0 +1,24 @@
+*
+{
+    margin: 0;
+}
+body{
+    background: black;
+}
+.ALO{
+    width: 1000px;
+    height: 500px;
+    background: linear-gradient(rgba(255, 192, 203, 0.562),rgba(238, 130, 238, 0.322)),url(./immama.jfif);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: auto;
+    margin-top: 20px;
+}
+.ALO:hover{
+        background: linear-gradient(rgba(255, 255, 255, 0.733)),url(./immama.jfif);
+    background-position: center;
+    background-repeat: no-repeat;
+        background-size: cover;
+
+}
